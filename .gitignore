@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+client/dist/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Executables & logs
+*.exe
+cloudflared.exe
+*.log
+logs/
+
+# Editor & OS files
+.DS_Store
+.vscode/
+.idea/

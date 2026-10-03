@@ -1,0 +1,668 @@
+{
+  "burna-boy": {
+    "file": "/celebs/burna-boy.jpg",
+    "credit": {
+      "author": "Nuță Lucian from Cluj-Napoca, Romania",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Untold_2024_-Burna_Boy_(53926047977)_(cropped).jpg"
+    }
+  },
+  "wizkid": {
+    "file": "/celebs/wizkid.jpg",
+    "credit": {
+      "author": "Silas2233",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Artworks-UWHjOik17qMFy0Sb-64tibA-t500x500.jpg"
+    }
+  },
+  "davido": {
+    "file": "/celebs/davido.jpg",
+    "credit": {
+      "author": "OLAMIPOSI DANIEL",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Davido_2024_(cropped).jpg"
+    }
+  },
+  "tiwa-savage": {
+    "file": "/celebs/tiwa-savage.jpg",
+    "credit": {
+      "author": "TCD Photography",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiwa_Savage%27s_studio_portrait.jpg"
+    }
+  },
+  "yemi-alade": {
+    "file": "/celebs/yemi-alade.png",
+    "credit": {
+      "author": "Romario COFFI",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yemi_Allad%C3%A9_%C3%A0_la_c%C3%A9l%C3%A9bration_du_Vodoun_Days_2024_a_Ouidah_au_B%C3%A9nin12_(cropped).png"
+    }
+  },
+  "rema": {
+    "file": "/celebs/rema.jpg",
+    "credit": {
+      "author": "Ssemmanda will",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Rema_Namakula_4.jpg"
+    }
+  },
+  "tems": {
+    "file": "/celebs/tems.jpg",
+    "credit": {
+      "author": "Maryland GovPics",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tems_Afro_Plus_Fest_(55514652102).jpg"
+    }
+  },
+  "asake": {
+    "file": "/celebs/asake.png",
+    "credit": {
+      "author": "Mensah Memories",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Asake_in_2024_performing_at_a_Toronto_concert.png"
+    }
+  },
+  "olamide": {
+    "file": "/celebs/olamide.jpg",
+    "credit": {
+      "author": "Emily Nkanga",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Olamide_Live_In_Concert_(2014).jpg"
+    }
+  },
+  "fireboy-dml": {
+    "file": "/celebs/fireboy-dml.png",
+    "credit": {
+      "author": "Wazobia Max TV",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fireboy_DML.png"
+    }
+  },
+  "flavour": {
+    "file": "/celebs/flavour.jpg",
+    "credit": {
+      "author": "Ameyaw Debrah",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Flavour_N%27abania.jpg"
+    }
+  },
+  "kizz-daniel": {
+    "file": "/celebs/kizz-daniel.jpg",
+    "credit": {
+      "author": "EppMePlix",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kiss_Daniels_at_Award_Show.jpg"
+    }
+  },
+  "ayra-starr": {
+    "file": "/celebs/ayra-starr.jpg",
+    "credit": {
+      "author": "Capital FM Kenya",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ayra_Starr_performing_in_2023_at_Shoke_Shoke_Festival.jpg"
+    }
+  },
+  "genevieve-nnaji": {
+    "file": "/celebs/genevieve-nnaji.png",
+    "credit": {
+      "author": "irokotv",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Genevieve_Nnaji_in_Weekend_Getaway.png"
+    }
+  },
+  "funke-akindele": {
+    "file": "/celebs/funke-akindele.jpg",
+    "credit": {
+      "author": "Ameyaw Debrah",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Funke_Akindele_(cropped).jpg"
+    }
+  },
+  "ramsey-nouah": {
+    "file": "/celebs/ramsey-nouah.png",
+    "credit": {
+      "author": "NdaniTV",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Actor_in_Gbomo_Gbomo_Express.png"
+    }
+  },
+  "richard-mofe-damijo": {
+    "file": "/celebs/richard-mofe-damijo.png",
+    "credit": {
+      "author": "One7One TV",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Richard_Mofe-Damijo.png"
+    }
+  },
+  "toyin-abraham": {
+    "file": "/celebs/toyin-abraham.jpg",
+    "credit": {
+      "author": "Kaizenify",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyin_Abraham_at_AMVCA_2020.jpg"
+    }
+  },
+  "ini-edo": {
+    "file": "/celebs/ini-edo.jpg",
+    "credit": {
+      "author": "Yoyoiuhfvnujbgte",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ini-Edo-1.jpg"
+    }
+  },
+  "mercy-johnson": {
+    "file": "/celebs/mercy-johnson.png",
+    "credit": {
+      "author": "irokotv | NOLLYWOOD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercy_Johnson.png"
+    }
+  },
+  "kunle-remi": {
+    "file": "/celebs/kunle-remi.jpg",
+    "credit": {
+      "author": "Kunle Remi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kunle_Remi_Portrait.jpg"
+    }
+  },
+  "osita-iheme": {
+    "file": "/celebs/osita-iheme.jpg",
+    "credit": {
+      "author": "Ameyaw Debrah",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Paw_Paw.jpg"
+    }
+  },
+  "chinedu-ikedieze": {
+    "file": "/celebs/chinedu-ikedieze.jpg",
+    "credit": {
+      "author": "Kaizenify",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinedu_Ikedieze_at_AMA_Award_31.jpg"
+    }
+  },
+  "basketmouth": {
+    "file": "/celebs/basketmouth.jpg",
+    "credit": {
+      "author": "Kaizenify",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:BasketMouth_at_AMVCA_2020_63_(cropped).jpg"
+    }
+  },
+  "bovi": {
+    "file": "/celebs/bovi.jpg",
+    "credit": {
+      "author": "Ameyaw Debrah",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bovi.jpg"
+    }
+  },
+  "mr-macaroni": {
+    "file": "/celebs/mr-macaroni.jpg",
+    "credit": {
+      "author": "GboladePopoola",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Debo_Adedayo.jpg"
+    }
+  },
+  "broda-shaggi": {
+    "file": "/celebs/broda-shaggi.png",
+    "credit": {
+      "author": "globacomlimited",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Broda_Shaggi_cropped.png"
+    }
+  },
+  "victor-osimhen": {
+    "file": "/celebs/victor-osimhen.jpg",
+    "credit": {
+      "author": "Fédération Guinéenne Football",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Victor-osimhen-nigeria-2024-3-4.jpg"
+    }
+  },
+  "victor-moses": {
+    "file": "/celebs/victor-moses.jpg",
+    "credit": {
+      "author": "Анна Нэсси",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Victor_Moses_(SPA-AKH).jpg"
+    }
+  },
+  "kelechi-iheanacho": {
+    "file": "/celebs/kelechi-iheanacho.jpg",
+    "credit": {
+      "author": "Дмитрий Пукалик",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kelechi_Iheanacho-Nigeria_(2).jpg"
+    }
+  },
+  "alex-iwobi": {
+    "file": "/celebs/alex-iwobi.jpg",
+    "credit": {
+      "author": "Timmy96",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Issa_Diop,_Alex_Iwobi_and_Antonee_Robinson_04032026_(1)_(cropped).jpg"
+    }
+  },
+  "asisat-oshoala": {
+    "file": "/celebs/asisat-oshoala.jpg",
+    "credit": {
+      "author": "Hameltion",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:NC_Courage_vs_Bay_FC_(Apr_2025)_009_(cropped).jpg"
+    }
+  },
+  "anthony-joshua": {
+    "file": "/celebs/anthony-joshua.jpg",
+    "credit": {
+      "author": "JazzyJoeyD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Anthony_Joshua_Press_Conference_(cropped).jpg"
+    }
+  },
+  "ebuka-obi-uchendu": {
+    "file": "/celebs/ebuka-obi-uchendu.jpg",
+    "credit": {
+      "author": "Ameyaw Debrah",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ebuka_Obi-Uchendu_(cropped).jpg"
+    }
+  },
+  "toke-makinwa": {
+    "file": "/celebs/toke-makinwa.png",
+    "credit": {
+      "author": "Ndanitv",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:NdaniTV_Toke_Makinwa_OAP_Nov_2018.png"
+    }
+  },
+  "ik-osakioduwa": {
+    "file": "/celebs/ik-osakioduwa.jpeg",
+    "credit": {
+      "author": "Kaizenify",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ik_Osakioduwa_at_AMVCA_2020.jpeg"
+    }
+  },
+  "omah-lay": {
+    "file": "/celebs/omah-lay.jpg",
+    "credit": {
+      "author": "Warner Records",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Omah_Lay_in_2023.jpg"
+    }
+  },
+  "joeboy": {
+    "file": "/celebs/joeboy.jpg",
+    "credit": {
+      "author": "Ayomide7",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Joeboy_(new).jpg"
+    }
+  },
+  "patoranking": {
+    "file": "/celebs/patoranking.png",
+    "credit": {
+      "author": "Capital FM Kenya",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Patoranking_(2019).png"
+    }
+  },
+  "2baba": {
+    "file": "/celebs/2baba.png",
+    "credit": {
+      "author": "NdaniTV",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2face_Idibia.png"
+    }
+  },
+  "dbanj": {
+    "file": "/celebs/dbanj.jpg",
+    "credit": {
+      "author": "Tobennandu at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:D%27banjawards.jpg"
+    }
+  },
+  "don-jazzy": {
+    "file": "/celebs/don-jazzy.jpg",
+    "credit": {
+      "author": "Wazobia Max TV",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Donjazzy.jpg"
+    }
+  },
+  "falz": {
+    "file": "/celebs/falz.png",
+    "credit": {
+      "author": "NdaniTV",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Falz.png"
+    }
+  },
+  "mayorkun": {
+    "file": "/celebs/mayorkun.png",
+    "credit": {
+      "author": "Wazobia Max TV",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mayorkun.png"
+    }
+  },
+  "ckay": {
+    "file": "/celebs/ckay.png",
+    "credit": {
+      "author": "96.5 TDY",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:CKay_during_an_interview_in_March_2022.png"
+    }
+  },
+  "pete-edochie": {
+    "file": "/celebs/pete-edochie.jpg",
+    "credit": {
+      "author": "Kelvin Jewel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pete-edochie.jpg"
+    }
+  },
+  "omotola-jalade-ekeinde": {
+    "file": "/celebs/omotola-jalade-ekeinde.png",
+    "credit": {
+      "author": "World Economic Forum",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Omotola_Jalade_Ekeinde_WEF_2015.png"
+    }
+  },
+  "rita-dominic": {
+    "file": "/celebs/rita-dominic.jpg",
+    "credit": {
+      "author": "Ameyaw Debrah",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rita_Dominic_(cropped_new).jpg"
+    }
+  },
+  "kate-henshaw": {
+    "file": "/celebs/kate-henshaw.jpeg",
+    "credit": {
+      "author": "Kaizenify",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kate_Henshaw_at_Lawrence_Onochie_50th_birthday09_04_40_659000.jpeg"
+    }
+  },
+  "nkem-owoh": {
+    "file": "/celebs/nkem-owoh.jpg",
+    "credit": {
+      "author": "Niyi Tabiti",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nkemowoh.jpg"
+    }
+  },
+  "patience-ozokwor": {
+    "file": "/celebs/patience-ozokwor.jpg",
+    "credit": {
+      "author": "Nigeria x Slawn",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Patience_Ozokwor_Nigeria_x_Slawn.jpg"
+    }
+  },
+  "stephanie-linus": {
+    "file": "/celebs/stephanie-linus.jpg",
+    "credit": {
+      "author": "Niyi Tabiti",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sokereke.jpg"
+    }
+  },
+  "nse-ikpe-etim": {
+    "file": "/celebs/nse-ikpe-etim.jpg",
+    "credit": {
+      "author": "Matthisvalerie",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nse_Ikpe-Etim_in_2016_(sq_cropped).jpg"
+    }
+  },
+  "banky-w": {
+    "file": "/celebs/banky-w.jpg",
+    "credit": {
+      "author": "Maryann Ndidiamaka Uguru",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Folorunsho_Coker_2_(cropped)_Bany_W.jpg"
+    }
+  },
+  "adesua-etomi": {
+    "file": "/celebs/adesua-etomi.jpg",
+    "credit": {
+      "author": "Msjazzyfed",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Adesua_Etomi.jpg"
+    }
+  },
+  "timini-egbuson": {
+    "file": "/celebs/timini-egbuson.jpg",
+    "credit": {
+      "author": "Goldieiyamu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Timini_Portrait.jpg"
+    }
+  },
+  "tonto-dikeh": {
+    "file": "/celebs/tonto-dikeh.png",
+    "credit": {
+      "author": "KING TONTO DIKEH",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tonto_Dikeh_cropped.png"
+    }
+  },
+  "akpororo": {
+    "file": "/celebs/akpororo.jpg",
+    "credit": {
+      "author": "Donaldonos",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nigerian_Role_Model_Awards_3_(cropped).jpg"
+    }
+  },
+  "lasisi-elenu": {
+    "file": "/celebs/lasisi-elenu.png",
+    "credit": {
+      "author": "NdaniTV",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lasisi_Elenu_in_NdaniTGIF_show_-_cropped.png"
+    }
+  },
+  "jay-jay-okocha": {
+    "file": "/celebs/jay-jay-okocha.jpg",
+    "credit": {
+      "author": "Unknown author Unknown author",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Jj_okocha.jpg"
+    }
+  },
+  "nwankwo-kanu": {
+    "file": "/celebs/nwankwo-kanu.jpg",
+    "credit": {
+      "author": "Original: Chensiyuan / Derivative work: Danyele",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:1_nwankwo_kanu_2017_(edited).jpg"
+    }
+  },
+  "john-obi-mikel": {
+    "file": "/celebs/john-obi-mikel.jpg",
+    "credit": {
+      "author": "Web Summit Qatar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mikel_John_Obi_(53557649520)_(cropped).jpg"
+    }
+  },
+  "ahmed-musa": {
+    "file": "/celebs/ahmed-musa.jpg",
+    "credit": {
+      "author": "Кирилл Венедиктов",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ahmed_Musa_20180625.jpg"
+    }
+  },
+  "wilfred-ndidi": {
+    "file": "/celebs/wilfred-ndidi.jpg",
+    "credit": {
+      "author": "Дмитрий Пукалик",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wilfred_Ndidi-Nigeria.jpg"
+    }
+  },
+  "ademola-lookman": {
+    "file": "/celebs/ademola-lookman.jpg",
+    "credit": {
+      "author": "Willibald11",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ademola_Lookman_(2019)_(cropped).jpg"
+    }
+  },
+  "taiwo-awoniyi": {
+    "file": "/celebs/taiwo-awoniyi.jpg",
+    "credit": {
+      "author": "Steffen Prößdorf",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2022-04-20_Fu%C3%9Fball,_M%C3%A4nner,_DFB-Pokal,_RB_Leipzig_-_1._FC_Union_Berlin_1DX_8274_by_Stepro.jpg"
+    }
+  },
+  "israel-adesanya": {
+    "file": "/celebs/israel-adesanya.jpg",
+    "credit": {
+      "author": "MMMAnytt",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Israel_Adesanya_at_UFC_230.jpg"
+    }
+  },
+  "kamaru-usman": {
+    "file": "/celebs/kamaru-usman.png",
+    "credit": {
+      "author": "MMAnytt",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KamaruUsmanPress2018.png"
+    }
+  },
+  "tobi-amusan": {
+    "file": "/celebs/tobi-amusan.jpg",
+    "credit": {
+      "author": "Owula kpakpo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tobi_Amusan_(2024).jpg"
+    }
+  },
+  "mo-abudu": {
+    "file": "/celebs/mo-abudu.jpg",
+    "credit": {
+      "author": "Danielle G. Campbell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mo_Abudu_at_TIFF_2025_(cropped).jpg"
+    }
+  },
+  "linda-ikeji": {
+    "file": "/celebs/linda-ikeji.png",
+    "credit": {
+      "author": "DevMike1",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Linda-ikeji.png"
+    }
+  },
+  "nancy-isime": {
+    "file": "/celebs/nancy-isime.jpg",
+    "credit": {
+      "author": "Kaizenify",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nancy_Isime_at_AMVCA_2020_24_(cropped).jpg"
+    }
+  },
+  "chimamanda-ngozi-adichie": {
+    "file": "/celebs/chimamanda-ngozi-adichie.png",
+    "credit": {
+      "author": "librairie mollat",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chimamanda_Ngozi_Adichie_(2015).png"
+    }
+  },
+  "wole-soyinka": {
+    "file": "/celebs/wole-soyinka.jpg",
+    "credit": {
+      "author": "Frankie Fouganthin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wole_Soyinka_in_2018_(3x4_cropped).jpg"
+    }
+  }
+}
