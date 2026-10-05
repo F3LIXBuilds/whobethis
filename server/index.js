@@ -1,4 +1,3 @@
-import fs from 'node:fs';
 import http from 'node:http';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -25,17 +24,10 @@ app.get('/health', (_req, res) => res.json({ ok: true }));
 // Serve React frontend
 const clientPath = path.join(__dirname, '../client/dist');
 
-console.log('Client path:', clientPath);
-console.log('Client exists:', fs.existsSync(clientPath));
-console.log(
-  'Index exists:',
-  fs.existsSync(path.join(clientPath, 'index.html'))
-);
-
 app.use(express.static(clientPath));
 
 // React SPA fallback
-app.get('*', (req, res) => {
+app.get('/{*splat}', (req, res) => {
   res.sendFile(path.join(clientPath, 'index.html'));
 });
 
